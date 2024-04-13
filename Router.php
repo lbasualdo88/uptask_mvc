@@ -53,3 +53,4 @@ class Router
         include_once __DIR__ . '/views/layout.php';
     }
 }
+
